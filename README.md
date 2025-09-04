@@ -233,13 +233,6 @@ app.config['MAX_CONTENT_LENGTH'] = 100 * 1024 * 1024  # 100MB
 - **Pillow** - Image processing
 - **python-pptx** - PowerPoint processing
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/your-username/file-converter/issues) page
-2. Create a new issue with detailed description
-3. Include error messages and steps to reproduce
-
 ---
 
 <div align="center">
